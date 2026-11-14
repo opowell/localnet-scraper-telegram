@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "Telegram",
+      "urlPattern": "t.me/s/"
+    }
+  ],
+  "file": "telegram.js"
+}
